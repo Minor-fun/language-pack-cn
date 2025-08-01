@@ -1,0 +1,24 @@
+[FontLib]
+FontLib=fonts_tw.fonts_tw
+
+[Fonts]
+TitleFont=DFPHeiMedium-B5,Normal
+TitleFontB=DFPHeiMedium-B5,Normal
+NormalFont=DFPHeiMedium-B5,Normal
+NormalFont_B=DFPHeiMedium-B5,Bold
+NormalFont_I=DFPHeiMedium-B5,Italic
+NormalFont_BI=DFPHeiMedium-B5,Bold,Italic
+NumberFont=Eurostile,Normal
+ChatFont=DFPHeiMedium-B5,Normal
+BasicFont=Noto Sans CJK TC Medium,Normal
+BasicFont_B=Noto Sans CJK TC Bold,Normal
+
+[IME]
+MoviePath=GFxIME.IME
+
+[Translation]
+Enable=1
+
+[Global]
+No Trigger=No Trigger!
+

@@ -1,0 +1,14 @@
+{
+    "name": "language-pack-cn",
+    "author": "hyacinth",
+    "description": "仅限Arborea Reborn使用，提供简体中文/英文的切换功能。使用命令 'lang cn' 切换至中文, 'lang en' 切换至英文。",
+    "version": "8/1/2025",
+    "options": {
+        "niceName": "中文语言包",
+        "settingsVersion": 1,
+        "settingsFile": "config.json",
+        "settingsMigrator": "settings_migrator.js"
+    },
+    "servers": ["https://raw.githubusercontent.com/Minor-fun/language-pack-cn/main/"],
+    "disableAutoUpdate": false
+}
