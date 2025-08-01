@@ -9,6 +9,6 @@
         "settingsFile": "config.json",
         "settingsMigrator": "settings_migrator.js"
     },
-    "servers": ["https://raw.githubusercontent.com/Minor-fun/language-pack-cn/main/"],
+    "servers": ["https://github.331663.xyz/https://raw.githubusercontent.com/Minor-fun/language-pack-cn/master/"],
     "disableAutoUpdate": false
 }
