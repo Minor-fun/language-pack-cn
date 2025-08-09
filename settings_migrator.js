@@ -1,7 +1,9 @@
 'use strict';
 
 const DefaultSettings = {
-    "currentLanguage": "en" // 可选 'cn' 或 'en'
+    "currentLanguage": "en",
+    "gameDataCenterHash": "",
+    "lastAppliedPluginHash": ""
 };
 
 module.exports = function MigrateSettings(from_ver, to_ver, settings) {
