@@ -1,11 +1,11 @@
 {
     "files": {
-        "DataCenter_Final_CN.dat": "0bd8968a6cfdd270f39fa642863edd6f1ec8480cfc872e0c73895b7922880310",
+        "DataCenter_Final_CN.dat": "fffa412dcfbfe5bdecb43a291f96259d2bba9b2e46f911ee70a0d66ba9eb69be",
         "GFxUI.eur": "68a6f57a0e7531b15db1dcc44d5f88c39450a16a2da0030ccc8850f511853d72",
         "README.md": "410119e6614b88da02af8992056d20132fc5ce3cbd83eac8b2ef939e9ecd8e76",
         "fonts_tw.gpk": "f93b895241987bf23eeb0aa0592d32002d1338372b6b856b77a9066281c91db1",
         "index.js": "eb5b2d5d16f3cf5a7ee8e81dc1bc0a428105f48e6687c8f2373f1986f368488a",
-        "module.json": "f0b3b70febd34e103280608d5ab1c74e3e3ac3e9076ca83a8bc739420f5dd26d",
+        "module.json": "5d26492af14be374c4b35f856a3eae2461232ddb46b9b10a33f4eb219e538505",
         "settings_migrator.js": "9671b901202d8046f8950aa7647a70716025dacc7efeac13f84d7fdfab150590"
     }
 }
